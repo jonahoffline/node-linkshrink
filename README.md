@@ -1,4 +1,4 @@
-# LinkShrink [![Build Status](https://travis-ci.org/jonahoffline/node-linkshrink.png)](https://travis-ci.org/jonahoffline/node-linkshrink)
+# LinkShrink [![Build Status](https://travis-ci.org/jonahoffline/node-linkshrink.png)](https://travis-ci.org/jonahoffline/node-linkshrink) [![Dependency Status](https://gemnasium.com/jonahoffline/node-linkshrink.png)](https://gemnasium.com/jonahoffline/node-linkshrink)
 
 An UrlShortner for Node.JS
 
