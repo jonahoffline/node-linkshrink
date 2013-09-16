@@ -28,3 +28,6 @@ I put my thing down, flip it and debug it
 Ti gubed dna ti pilf nwod gniht ym tup I
 
 Ti gubed dna ti pilf nwod gniht ym tup I
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/jonahoffline/node-linkshrink/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
