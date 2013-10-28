@@ -8,7 +8,7 @@ An UrlShortner for Node.JS
 Add the package `linkshrink` as dependencies in your `package.json` file.
 
     "dependencies": {
-      "linkshrink": ">= 0.0.1"
+      "linkshrink": ">= 0.0.2"
     }
 
 Run the following command to make sure those packages is installed.
