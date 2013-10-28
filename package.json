@@ -1,7 +1,7 @@
 {
   "name": "linkshrink",
   "description": "An urlShortner for Node.JS",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Jonah Ruiz <jonah@pixelhipsters.com>",
   "main": "index.coffee",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://www.github.com/jonahoffline/node-linkshrink"
+    "url": "git@github.com:jonahoffline/node-linkshrink.git"
   },
   "keywords": [
     "urlshortner",
@@ -17,8 +17,8 @@
     "link"
   ],
   "devDependencies": {
-    "mocha": "~1.12.0",
-    "chai": "~1.7.2"
+    "mocha": "*",
+    "chai": "*"
   },
   "dependencies": {
     "coffee-script": "~1.6.3",
