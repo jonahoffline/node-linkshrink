@@ -2,6 +2,7 @@
 
 An UrlShortner for Node.JS
 
+[![NPM](https://nodei.co/npm/linkshrink.png?downloads=true)](https://nodei.co/npm/linkshrink/)
 
 ## Installation
 
