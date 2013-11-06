@@ -1,4 +1,4 @@
-# LinkShrink [![Build Status](https://travis-ci.org/jonahoffline/node-linkshrink.png)](https://travis-ci.org/jonahoffline/node-linkshrink) [![Dependency Status](https://gemnasium.com/jonahoffline/node-linkshrink.png)](https://gemnasium.com/jonahoffline/node-linkshrink)
+# LinkShrink [![Build Status](https://travis-ci.org/jonahoffline/node-linkshrink.png)](https://travis-ci.org/jonahoffline/node-linkshrink) [![Dependency Status](https://gemnasium.com/jonahoffline/node-linkshrink.png)](https://gemnasium.com/jonahoffline/node-linkshrink) [![NPM version](https://badge.fury.io/js/linkshrink.png)](http://badge.fury.io/js/linkshrink)
 
 An UrlShortner for Node.JS
 
